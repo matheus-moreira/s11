@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://manipulacaopaguemenos.com.br/sitemap.xml
